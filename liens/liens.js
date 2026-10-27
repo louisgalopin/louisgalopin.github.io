@@ -1,5 +1,5 @@
 // Code GoatCounter (le même que dans src/config/site.ts). Vide = pas de comptage.
-var GOATCOUNTER = "";
+var GOATCOUNTER = "louisgalopin";
 var T = {
   es: {langs:"Francés · Inglés · Español", tag:"Práctica en eventos hoteleros<br>Cartagena de Indias · desde abril de 2027", sub:"Estudiante de Máster 2 · EM Normandie, Francia", port:"Ver mi portafolio", portSub:"Experiencia, eventos y acreditaciones", wa:"Escríbame por WhatsApp", mail:"Correo", cv:"Hoja de vida (PDF)", msg:"Hola Louis, conocí su portafolio y me gustaría hablar con usted sobre una práctica."},
   en: {langs:"French · English · Spanish", tag:"Hotel events internship<br>Cartagena de Indias · from April 2027", sub:"Master’s student (M2) · EM Normandie, France", port:"See my portfolio", portSub:"Experience, events and accreditations", wa:"Message me on WhatsApp", mail:"Email", cv:"CV (PDF)", msg:"Hello Louis, I came across your portfolio and would like to talk with you about an internship."},
